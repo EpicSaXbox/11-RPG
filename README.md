@@ -1,2 +1,2 @@
-# Project-Template-Godot
-A default Godot project template for MSCH-C220
+9-FPS
+A 3D Godot project made at Indidana Univeristy for MSCH-C220
